@@ -76,4 +76,4 @@ Please reduce your prompt; or completion length.”, ‘type’: ‘invalid_requ
 ```
 ValueError: could not broadcast input array from shape (128256,) into shape (0,)
 ```
-For you reference you can view the [qna.yaml](https://github.com/Prithiviraj25/autoporting/blob/main/qna.yaml) used.
+For you reference you can view the [qna.yaml](main/qna.yaml) used.
